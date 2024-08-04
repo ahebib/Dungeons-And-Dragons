@@ -1,0 +1,1 @@
+{"name": "Alphonse", "race": "Human", "class": "Cleric"}
